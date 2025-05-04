@@ -374,3 +374,4 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 ## Branch1 Changes
+\n## Новый раздел от branch1
